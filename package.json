@@ -1,0 +1,25 @@
+{
+  "name": "jakestrim",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/igerko/jakestrim.git"
+  },
+  "keywords": [
+    "music",
+    "stream",
+    "playlist",
+    "webplayer"
+  ],
+  "author": "Jakub Kacur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igerko/jakestrim/issues"
+  },
+  "homepage": "https://github.com/igerko/jakestrim#readme"
+}
